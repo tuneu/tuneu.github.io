@@ -1,0 +1,8 @@
+Origin: Tune's Repo
+Label: Tune's Repo
+Suite: stable
+Version: 1.0
+Codename: iOS
+Architectures: iphoneos-arm64
+Components: main
+Description: Tune 自用软件源
