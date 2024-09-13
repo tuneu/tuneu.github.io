@@ -144,7 +144,7 @@ Description: 双击取景框翻转相机前置和后置镜头，无设置项。�
 Author: SquidForce
 Name: 双击翻转相机镜头 - DoubleTapFlipCamera
 
-Package: com.sunshinesong.split-view-pro
+Package: com.sunshinesong.split-view-pro-1.1.4
 Version: 1.1.4
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
@@ -161,7 +161,7 @@ Author: sunshinesong
 Name: split-view-pro-1.1.4（老版本备份）
 Ts: sp-sss
 
-Package: com.sunshinesong.split-view-pro
+Package: com.sunshinesong.split-view-pro-1.1.6
 Version: 1.1.6
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
@@ -210,8 +210,7 @@ SHA1: 5a7af79cec3ea15c8f7b5ce907cc24fd80746a23
 SHA256: e7ad57e95f3312ad05d88849e44eec5ccd2dbd9d2f0b6c46a8908063905353b6
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
-Description: Enable new native MagSafe charging view on lockscreen when connecting device to power source
-来自：https://www.reddit.com/r/jailbreak/comments/1b06y6n/free_release_magsafe_enabler_rootless/ 
+Description: 来自：https://www.reddit.com/r/jailbreak/comments/1b06y6n/free_release_magsafe_enabler_rootless/
 Tag: purpose::extension
 Author: Tomasz Poliszuk
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
