@@ -10,7 +10,7 @@ MD5sum: 23a6094ae1f926ff1c157a2c6b75fa47
 SHA1: 7cd6e99468358a91850c6bf0cef3d12562ea09a2
 SHA256: 4346a2c229b5be86068214d8aef8dd2017591b76b46a6d13207e5079c461da79
 Section: Control Center (Modules)
-Description: 临时绕过人脸，绕过密码解锁。1.0.2改版本号
+Description: 临时绕过人脸、密码解锁（1.0.2改版本号）作者源：lenglengyu.com
 Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 Name: PassByCC-1.0.2
