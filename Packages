@@ -1,19 +1,19 @@
-Package: com.lenglengyu.passbycc-rootless
-Version: 1.2.0
+Package: com.lenglengyu.passbycc-gai
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 464
 Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
-Filename: debs/com.lenglengyu.passbycc-rootless_1.2.0_iphoneos-arm64.deb
-Size: 98428
-MD5sum: 5b8a021cebc79508a129e224c31c604d
-SHA1: a1cadcc03f5b401da9dd865ce0b82e9412644257
-SHA256: b58922fa9c08f58d2fb7a45d60daeb8ec93f1773062412c4f951402669469535
+Filename: debs/com.lenglengyu.passbycc-gai_1.1.0_iphoneos-arm64.deb
+Size: 98576
+MD5sum: 23a6094ae1f926ff1c157a2c6b75fa47
+SHA1: 7cd6e99468358a91850c6bf0cef3d12562ea09a2
+SHA256: 4346a2c229b5be86068214d8aef8dd2017591b76b46a6d13207e5079c461da79
 Section: Control Center (Modules)
-Description: 临时绕过人脸，绕过密码解锁。22
+Description: 临时绕过人脸、密码解锁（1.0.2改版本号）作者源：lenglengyu.com
 Author: lenglengyu
-Depiction: 这是改过的
-Name: PassByCC-Rootless
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+Name: PassByCC-1.0.2
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/passbyccsileo
 
 
