@@ -1,3 +1,19 @@
+Package: com.snail.photoskipdelandinfinitezoom.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/com.snail.photoskipdelandinfinitezoom.rootless_0.0.1_iphoneos-arm64.deb
+Size: 4449
+MD5sum: dad6cd0670301e026166509e3af987aa
+SHA1: 151c6337538c83cba37006768ac0ca8aceb0ce13
+SHA256: 66c05030c125be545c887dbe4b5fe9ea5a2e814d4f0e3444420972e2fc98101e
+Section: Rootless
+Description: 照片APP图片删除操作无需确认，无限放大照片。蜗牛源：https://repo.snailovet.com
+Author: Snail <snailsohi@gmail.com>
+Name: 照片直接删除&无限放大 PhotoSkipDelAndInfiniteZoom
+
+
 Package: preferenceloader
 Version: 2.2.8
 Architecture: iphoneos-arm64
