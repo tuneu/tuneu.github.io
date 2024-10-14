@@ -1,3 +1,22 @@
+Package: com.appsyncunified
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: Karen, Linus Yang
+Depends: mobilesubstrate, firmware (<= 16.5.1)
+Conflicts: ai.akemi.appsyncunified, xyz.cypwn.appsyncunified, byg.iosios.net.appsyncunified
+Replaces: ai.akemi.appsyncunified
+Provides: ai.akemi.appsyncunified (= 112.0)
+Filename: debs/com.appsyncunified_112.0_iphoneos-arm64.deb
+Size: 34060
+MD5sum: dd4f7378b5c8a5b305e2bac4b84d98f6
+SHA1: b7b25fd92b32db477d7809dac8393270ad51ba82
+SHA256: 684b96189233f9927ff9ca9d3fd598af60f64de3f9e11ffc6b3fa9d37778cad1
+Section: Rootless
+Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序
+Author: Karen, Linus Yang
+Name: AppSync Unified(rootless)
+
+
 Package: com.snail.photoskipdelandinfinitezoom.rootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
