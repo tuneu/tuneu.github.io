@@ -1,3 +1,22 @@
+Package: com.netskao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.netskao.appdata_1.4.3_iphoneos-arm64.deb
+Size: 4626316
+MD5sum: c259c30da025ffd154ecb96eefc2aa17
+SHA1: ad1cd050162ac7c3686d3ead6e152a04f33fc989
+SHA256: 85f42c864b90f7a2226fec98f6ae8c9d2c30bd816a38a9d9349559944f335805
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen，作者源：https://jailrepo.initnil.com/
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+
+
 Package: com.appsyncunified
 Version: 112.0
 Architecture: iphoneos-arm64
