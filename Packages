@@ -31,7 +31,7 @@ MD5sum: dd4f7378b5c8a5b305e2bac4b84d98f6
 SHA1: b7b25fd92b32db477d7809dac8393270ad51ba82
 SHA256: 684b96189233f9927ff9ca9d3fd598af60f64de3f9e11ffc6b3fa9d37778cad1
 Section: Rootless
-Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序
+Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序。作者源（404中）：https://cydia.akemi.ai/，项目地址：https://github.com/akemin-dayo/AppSync
 Author: Karen, Linus Yang
 Name: AppSync Unified(rootless)
 
