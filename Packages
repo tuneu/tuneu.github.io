@@ -1,18 +1,18 @@
-Package: com.25mao.38-4.miyou.rootless
+Package: com.25mao.miyou3.8-4.rootless
 Version: 3.8-4
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./微信助手_3.8-4_无根.deb
-Size: 13152766
-MD5sum: 1e7cf96ed97e8c5e5b0716190a6b4056
-SHA1: 1c8196b9a0ae2fa4cd38ba0d823d5b6c3d753147
-SHA256: a0657aa63474fc93b75117a342ae11a2284850266b8befeeaee9a0d987d62068
+Filename: ./com.25mao.miyou3.8-4.rootless_3.8-4_iphoneos-arm64.deb
+Size: 9296756
+MD5sum: 8933949cedf0d87a3244305cc1acdb58
+SHA1: 7bc7560e3deb13df25fd2c8a43831fa986224cab
+SHA256: ddd5f061adfde708061ea96164815b272abe3d00ee4c7c11361b0e3b8998a16a
 Section: Tweaks
 Priority: optional
-Description: 新版会闪退，备份旧版
+Description: 新版闪退，此为旧版备份
 Author: Mao
-Name: 微信助手 3.8-4
+Name: 微信助手
 
 Package: com.netskao.appdata
 Version: 1.4.3
