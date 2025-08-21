@@ -1,3 +1,17 @@
+Package: com.autokill
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: De
+Filename: debs/com.autokill_1.0_iphoneos-arm64.deb
+Size: 5184
+MD5sum: d97e0eb48e9e237c83917151a16b077d
+SHA1: 52945e84eb1adc7cb0eba9702853b6945e246c90
+SHA256: 4ca3e455605834b5e426765fc1e02a6de517fbc25992a09b045e7f80e3c04519
+Section: Tweaks
+Description: 自动杀相机app
+Author: De
+Name: Autokill
+
 Package: com.25mao.miyou3.8-4.rootless
 Version: 3.8-4
 Architecture: iphoneos-arm64
