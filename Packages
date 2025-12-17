@@ -1,3 +1,23 @@
+Package: cn.zqbb.holdcpu15
+Version: 2.3.4-15
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 3416
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.ccsupport
+Conflicts: com.yourepo.0xash.powercuff, byg.iosios.net.powercuff, com.dao.powercuff, com.rpetrich.powercuff, com.yourepo.0xash.devicemonitor, com.yourepo.0xash.fuckthermal, com.shadow.fuckthermal, com.dao.fuckthermal, byg.iosios.net.monitor, byg.iosios.net.disablethermalmonitord, com.nan.disablethermalmonitord
+Filename: debs/cn.zqbb.holdcpu15_2.3.4-15_iphoneos-arm64e.deb
+Size: 1224052
+MD5sum: cb7e61b423c6630e0f21eb24fa3b27d4
+SHA1: df9c835fb880e64bb22431723e1c1bea0d85f82a
+SHA256: 94d083c5935cee516399044a5b81600cbca23aa8d6f02ac63fd54c06ddf9bcc3
+Section: Tweaks
+Description: (解除温控) (锁定低电量CPU频率)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.holdcpu
+Name: Hello CPU
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.holdcpu
+
+
 Package: com.autokill
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24,7 +44,7 @@ SHA1: 7bc7560e3deb13df25fd2c8a43831fa986224cab
 SHA256: ddd5f061adfde708061ea96164815b272abe3d00ee4c7c11361b0e3b8998a16a
 Section: Tweaks
 Priority: optional
-Description: 新版闪退，此为旧版备份
+Description: 新版闪退，此为旧版 (old version) 备份
 Author: Mao
 Name: 微信助手
 
